@@ -32,7 +32,7 @@ public class chocolateProblem {
      }
 
      while(v < costVer.length){
-         cost += (costVer[v]* hp);
+         cost += (costVer[v]* hp); 
         vp++;
       v++;
      } 
